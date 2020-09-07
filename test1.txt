@@ -1,0 +1,10 @@
+ Volume in drive C is SYSTEM
+ Volume Serial Number is 6238-FB33
+
+ Directory of C:\Users\Abhi\Desktop\my git
+
+07-09-2020  04:35 PM    <DIR>          .
+07-09-2020  04:35 PM    <DIR>          ..
+07-09-2020  04:35 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  329,573,588,992 bytes free
